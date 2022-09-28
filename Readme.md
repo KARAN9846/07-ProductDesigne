@@ -34,7 +34,7 @@ This project taught me how to choose a typeface that respects the hero image, ho
 ## Screenshot 
 
 
-[Live Link](https://clinquant-hummingbird-9d42fc.netlify.app/)
+[Live Link](https://sweet-entremet-09e3fc.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
